@@ -1,5 +1,6 @@
 *.idea
 *.iml
+*.site
 *.test
 *.target
 service/service_oss/src/main/resources/application.properties
